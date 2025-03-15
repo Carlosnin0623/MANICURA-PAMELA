@@ -1,0 +1,216 @@
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Negocio.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Datos.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Negocio.pdb
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\bin\Debug\Capa de Datos.pdb
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.GenerarPeriodosGastosfijos.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.VisualizarGastosfijo.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Nomina.ConsultarEmp.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Nomina.Nomina.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Nomina.TrabajarNomina.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.AñadirProducto.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Productos.MostrarProductos.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.Productos.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Empleados.AñadirEmpleados.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Empleados.Empleado.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.MostrarServicios.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.ActualizarUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.AñadirUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.Usuarios.resources
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GenerarPeriodosGastosfijos.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.VisualizarGastosfijo.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.ConsultarEmp.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.Nomina.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.TrabajarNomina.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Clientes.AñadirProducto.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.MostrarProductos.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.AñadirEmpleados.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.Empleado.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.MostrarServicios.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.ActualizarUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.AñadirUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.Usuarios.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.ActualizarProducto.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.Productosc.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GenerarPeriodosGastosfijos.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.VisualizarGastosfijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.ConsultarEmp.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.Nomina.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.TrabajarNomina.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.ActualizarProducto.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Clientes.AñadirProducto.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.MostrarProductos.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.AñadirEmpleados.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.Empleado.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.Productosc.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.MostrarServicios.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.ActualizarUsuario.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.AñadirUsuario.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.Usuarios.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.ActualizarServicio.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.ActualizarServicio.resources
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Dashboard.Dashboard.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Negocio.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\bin\Debug\Capa de Datos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Dashboard.Dashboard.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GenerarPeriodosGastosfijos.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.VisualizarGastosfijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.ConsultarEmp.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.Nomina.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Nomina.TrabajarNomina.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.ActualizarProducto.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Clientes.AñadirProducto.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.MostrarProductos.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.AñadirEmpleados.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Empleados.Empleado.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Productos.Productosc.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.ActualizarServicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.MostrarServicios.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.ActualizarUsuario.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.AñadirUsuario.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.Usuarios.Usuarios.resources
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Negocio.dll
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Datos.dll
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Negocio.pdb
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\bin\Debug\Capa de Datos.pdb
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Dashboard.Dashboard.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.GastosFijos.GenerarPeriodosGastosfijos.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.GastosFijos.VisualizarGastosfijo.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Nomina.ConsultarEmp.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Nomina.Nomina.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Nomina.TrabajarNomina.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Productos.ActualizarProducto.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Clientes.AñadirProducto.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Productos.MostrarProductos.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Empleados.AñadirEmpleados.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Empleados.Empleado.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Productos.Productosc.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Servicios.ActualizarServicio.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Facturación.MostrarServicios.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Usuarios.ActualizarUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Usuarios.AñadirUsuario.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.Usuarios.Usuarios.resources
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Salon\obj\Debug\Salon.pdb
