@@ -1,0 +1,24 @@
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.AssemblyReference.cache
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto Pamela - Backup\Proyecto-Pamela\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.pdb
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.AssemblyReference.cache
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.CoreCompileInputs.cache
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.dll
+C:\Users\gfranco\Desktop\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\Proyecto-Pamela2\Proyecto-Pamela2\Salon\Capa de Entidad\obj\Debug\Capa de Entidad.pdb

@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Salon</RootNamespace>
+    <AssemblyName>Salon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DrakeUI.Framework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=32bd1f5d97424e1c, processorArchitecture=MSIL">
+      <HintPath>..\packages\DrakeUI.Framework.1.3.5\lib\net45\DrakeUI.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dashboard\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GastosFijos\GenerarPeriodosGastosfijos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\GenerarPeriodosGastosfijos.Designer.cs">
+      <DependentUpon>GenerarPeriodosGastosfijos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GastosFijos\VisualizarGastosfijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\VisualizarGastosfijo.Designer.cs">
+      <DependentUpon>VisualizarGastosfijo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina\ConsultarEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina\ConsultarEmp.Designer.cs">
+      <DependentUpon>ConsultarEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina\Nomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina\Nomina.Designer.cs">
+      <DependentUpon>Nomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nomina\TrabajarNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nomina\TrabajarNomina.Designer.cs">
+      <DependentUpon>TrabajarNomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\ActualizarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\ActualizarProducto.Designer.cs">
+      <DependentUpon>ActualizarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\AñadirProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\AñadirProducto.Designer.cs">
+      <DependentUpon>AñadirProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\MostrarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\MostrarProductos.Designer.cs">
+      <DependentUpon>MostrarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\AñadirEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\AñadirEmpleados.Designer.cs">
+      <DependentUpon>AñadirEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\Empleado.Designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturación\AñadirFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturación\AñadirFactura.Designer.cs">
+      <DependentUpon>AñadirFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Productosc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Productosc.Designer.cs">
+      <DependentUpon>Productosc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\ActualizarServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\ActualizarServicio.Designer.cs">
+      <DependentUpon>ActualizarServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\MostrarServicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\MostrarServicios.Designer.cs">
+      <DependentUpon>MostrarServicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GastosFijos\AñadirGastoFijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\AñadirGastoFijo.Designer.cs">
+      <DependentUpon>AñadirGastoFijo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GastosFijos\GastoFijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\GastoFijo.Designer.cs">
+      <DependentUpon>GastoFijo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Presentacion.Designer.cs">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rol\AñadirRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rol\AñadirRol.Designer.cs">
+      <DependentUpon>AñadirRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rol\Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rol\Roles.Designer.cs">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\AñadirServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\AñadirServicio.Designer.cs">
+      <DependentUpon>AñadirServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Servicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Servicio.Designer.cs">
+      <DependentUpon>Servicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturación\Facturación.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturación\Facturación.Designer.cs">
+      <DependentUpon>Facturación.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuarios\ActualizarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\ActualizarUsuario.Designer.cs">
+      <DependentUpon>ActualizarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\AñadirUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\AñadirUsuario.Designer.cs">
+      <DependentUpon>AñadirUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios\Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dashboard\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\GenerarPeriodosGastosfijos.resx">
+      <DependentUpon>GenerarPeriodosGastosfijos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\VisualizarGastosfijo.resx">
+      <DependentUpon>VisualizarGastosfijo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina\ConsultarEmp.resx">
+      <DependentUpon>ConsultarEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina\Nomina.resx">
+      <DependentUpon>Nomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nomina\TrabajarNomina.resx">
+      <DependentUpon>TrabajarNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\ActualizarProducto.resx">
+      <DependentUpon>ActualizarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\AñadirProducto.resx">
+      <DependentUpon>AñadirProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\MostrarProductos.resx">
+      <DependentUpon>MostrarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\AñadirEmpleados.resx">
+      <DependentUpon>AñadirEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturación\AñadirFactura.resx">
+      <DependentUpon>AñadirFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Productosc.resx">
+      <DependentUpon>Productosc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\ActualizarServicio.resx">
+      <DependentUpon>ActualizarServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\MostrarServicios.resx">
+      <DependentUpon>MostrarServicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\AñadirGastoFijo.resx">
+      <DependentUpon>AñadirGastoFijo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\GastoFijo.resx">
+      <DependentUpon>GastoFijo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Presentacion.resx">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rol\AñadirRol.resx">
+      <DependentUpon>AñadirRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rol\Roles.resx">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\AñadirServicio.resx">
+      <DependentUpon>AñadirServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Servicio.resx">
+      <DependentUpon>Servicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturación\Facturación.resx">
+      <DependentUpon>Facturación.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Usuarios\ActualizarUsuario.resx">
+      <DependentUpon>ActualizarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\AñadirUsuario.resx">
+      <DependentUpon>AñadirUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios\Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front-view-woman-getting-her-manicure-done-at-the-salon-scaled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiply-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiply-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-empleados-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trabajo-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-llave-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-factura-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-receipt-dollar-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-receipt-dollar-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clientes-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tablero-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tablero-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-usuario-masculino-en-círculo-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tablero-25 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiplicar-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maletín-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-empleados-23 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-más-2-matemáticas-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-guardar-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiplicar-23 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-búsqueda-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo pamela.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seguridad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ojo-cerrado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ojo-abierto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-más-2-matemáticas-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clientes-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maletín-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-factura-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastoFijos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconollavenegra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastoFijoNegro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bolsa-de-dinero-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bolsa-de-dinero-22 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-guardar-21 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calculadora-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimizar-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy_5757665.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy_10532481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop-button_3877243.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video_14159459.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cuadrado-23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productonegro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\productoboton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuariosnegro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-borrar-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editardef.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrardef.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa de Entidad\Capa de Entidad.csproj">
+      <Project>{ff31634a-b181-487d-9411-e2bf60c37e14}</Project>
+      <Name>Capa de Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa de Negocio\Capa de Negocio.csproj">
+      <Project>{d6edcd86-b2d0-4eb4-93eb-2fb2b0781b51}</Project>
+      <Name>Capa de Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borrardef1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editardef1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleadosdashboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tablero-25 %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-maletín-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bolsa-de-dinero-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-escoba-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-escoba-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-escoba-17.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
