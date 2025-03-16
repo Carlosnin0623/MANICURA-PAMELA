@@ -43,11 +43,10 @@
             this.btnGenerarPeriodos = new System.Windows.Forms.Button();
             this.DgvDatosGastosFijos = new DrakeUI.Framework.DrakeUIDataGridView();
             this.editar = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NombreProducto = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Precio = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Proveedor = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.FechaIngreso = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.IdPeriodosGastosFijos = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FechaInicio = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FechaFin = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Estado = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.drakeUIGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -193,11 +192,10 @@
             this.DgvDatosGastosFijos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.DgvDatosGastosFijos.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.editar,
-            this.Id,
-            this.NombreProducto,
-            this.Precio,
-            this.Proveedor,
-            this.FechaIngreso});
+            this.IdPeriodosGastosFijos,
+            this.FechaInicio,
+            this.FechaFin,
+            this.Estado});
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
             dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -243,41 +241,33 @@
             this.editar.Name = "editar";
             this.editar.Width = 55;
             // 
-            // Id
+            // IdPeriodosGastosFijos
             // 
-            this.Id.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Id.DataPropertyName = "Id";
-            this.Id.HeaderText = "ID";
-            this.Id.Name = "Id";
-            this.Id.Visible = false;
+            this.IdPeriodosGastosFijos.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.IdPeriodosGastosFijos.DataPropertyName = "IdPeriodosGastosFijos";
+            this.IdPeriodosGastosFijos.HeaderText = "Período";
+            this.IdPeriodosGastosFijos.Name = "IdPeriodosGastosFijos";
             // 
-            // NombreProducto
+            // FechaInicio
             // 
-            this.NombreProducto.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.NombreProducto.DataPropertyName = "NombreProducto";
-            this.NombreProducto.HeaderText = "Nombre";
-            this.NombreProducto.Name = "NombreProducto";
+            this.FechaInicio.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.FechaInicio.DataPropertyName = "FechaInicio";
+            this.FechaInicio.HeaderText = "Fecha Inicio";
+            this.FechaInicio.Name = "FechaInicio";
             // 
-            // Precio
+            // FechaFin
             // 
-            this.Precio.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Precio.DataPropertyName = "Precio";
-            this.Precio.HeaderText = "Descripción";
-            this.Precio.Name = "Precio";
+            this.FechaFin.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.FechaFin.DataPropertyName = "FechaFin";
+            this.FechaFin.HeaderText = "Fecha Fin";
+            this.FechaFin.Name = "FechaFin";
             // 
-            // Proveedor
+            // Estado
             // 
-            this.Proveedor.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.Proveedor.DataPropertyName = "Proveedor";
-            this.Proveedor.HeaderText = "Monto";
-            this.Proveedor.Name = "Proveedor";
-            // 
-            // FechaIngreso
-            // 
-            this.FechaIngreso.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.FechaIngreso.DataPropertyName = "FechaIngreso";
-            this.FechaIngreso.HeaderText = "Fecha";
-            this.FechaIngreso.Name = "FechaIngreso";
+            this.Estado.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.Estado.DataPropertyName = "Estado";
+            this.Estado.HeaderText = "Estado";
+            this.Estado.Name = "Estado";
             // 
             // GastoFijo
             // 
@@ -294,6 +284,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "GastoFijo";
             this.Text = "GastoFijo";
+            this.Load += new System.EventHandler(this.GastoFijo_Load);
             this.drakeUIGradientPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -315,10 +306,9 @@
         private System.Windows.Forms.Button btnGenerarPeriodos;
         private DrakeUI.Framework.DrakeUIDataGridView DgvDatosGastosFijos;
         private System.Windows.Forms.DataGridViewTextBoxColumn editar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Id;
-        private System.Windows.Forms.DataGridViewTextBoxColumn NombreProducto;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Precio;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Proveedor;
-        private System.Windows.Forms.DataGridViewTextBoxColumn FechaIngreso;
+        private System.Windows.Forms.DataGridViewTextBoxColumn IdPeriodosGastosFijos;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FechaInicio;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FechaFin;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Estado;
     }
 }

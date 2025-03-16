@@ -1,94 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\",
+  "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\facturaci\u00F3n\\a\u00F1adirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\facturaci\u00F3n\\a\u00F1adirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\gastosfijos\\visualizargastosfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\visualizargastosfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\facturaci\u00F3n\\a\u00F1adirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\facturaci\u00F3n\\a\u00F1adirfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\facturaci\u00F3n\\facturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\facturaci\u00F3n\\facturaci\u00F3n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\productos\\a\u00F1adirproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\productos\\a\u00F1adirproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\productos\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\productos\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\productos\\productosc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\productos\\productosc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\productos\\actualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\productos\\actualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\gastosfijos\\visualizargastosfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\gastosfijos\\visualizargastosfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\visualizargastosfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\capa de datos\\dgastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|solutionrelative:capa de datos\\dgastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\salon\\gastosfijos\\generarperiodosgastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\generarperiodosgastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|c:\\users\\gfranco\\desktop\\proyecto-pamela500\\tienda-pamela-500\\salon\\capa de datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|solutionrelative:capa de datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6EDCD86-B2D0-4EB4-93EB-2FB2B0781B51}|Capa de Negocio\\Capa de Negocio.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\capa de negocio\\ngastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EDCD86-B2D0-4EB4-93EB-2FB2B0781B51}|Capa de Negocio\\Capa de Negocio.csproj|solutionrelative:capa de negocio\\ngastosfijos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\empleados\\a\u00F1adirempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\empleados\\a\u00F1adirempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\empleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\empleados\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\capa de datos\\dservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8786BDAA-53C3-4B45-91D9-F6E5F7FA4E3B}|Capa de Datos\\Capa de Datos.csproj|solutionrelative:capa de datos\\dservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\salon\\productos\\actualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\productos\\actualizarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\actualizarservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\manicura-pamela\\salon\\salon\\servicios\\a\u00F1adirservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\a\u00F1adirservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,269 +75,139 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Facturaci\u00F3n.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
-              "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs [Dise\u00F1o]",
+              "Title": "DGastosFijos.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Capa de Datos\\DGastosFijos.cs",
+              "RelativeDocumentMoniker": "Capa de Datos\\DGastosFijos.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Capa de Datos\\DGastosFijos.cs",
+              "RelativeToolTip": "Capa de Datos\\DGastosFijos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:12:03.423Z",
+              "WhenOpened": "2025-03-15T20:35:47.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisualizarGastosfijo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "RelativeToolTip": "Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:28:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisualizarGastosfijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\VisualizarGastosfijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\GastosFijos\\VisualizarGastosfijo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:10:33.993Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Servicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\Servicio.cs",
               "RelativeDocumentMoniker": "Salon\\Servicios\\Servicio.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\Servicio.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\Servicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "Salon\\Servicios\\Servicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:37:47.874Z",
+              "WhenOpened": "2025-03-15T19:57:51.004Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MostrarProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\MostrarProductos.cs",
-              "RelativeDocumentMoniker": "Salon\\Productos\\MostrarProductos.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\MostrarProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Productos\\MostrarProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:51:48.154Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Servicio.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\Servicio.cs",
-              "RelativeDocumentMoniker": "Salon\\Servicios\\Servicio.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\Servicio.cs",
-              "RelativeToolTip": "Salon\\Servicios\\Servicio.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAASwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:37:50.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "A\u00F1adirFactura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:12:06.301Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "A\u00F1adirFactura.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "RelativeToolTip": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAswOEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:12:08.762Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ActualizarServicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\ActualizarServicio.cs",
-              "RelativeDocumentMoniker": "Salon\\Servicios\\ActualizarServicio.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\ActualizarServicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Servicios\\ActualizarServicio.cs [Dise\u00F1o]",
+              "Title": "GastoFijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:43:02.405Z",
+              "WhenOpened": "2025-03-15T19:56:10.833Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ActualizarServicio.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\ActualizarServicio.cs",
-              "RelativeDocumentMoniker": "Salon\\Servicios\\ActualizarServicio.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Servicios\\ActualizarServicio.cs",
-              "RelativeToolTip": "Salon\\Servicios\\ActualizarServicio.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAIAwwEcAAAARAAAAAAAAAA==",
+              "Title": "GastoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeToolTip": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:35:35.042Z",
+              "WhenOpened": "2025-03-15T19:56:20.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Productosc.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\Productosc.cs",
-              "RelativeDocumentMoniker": "Salon\\Productos\\Productosc.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\Productosc.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Productos\\Productosc.cs [Dise\u00F1o]",
+              "DocumentIndex": 5,
+              "Title": "NGastosFijos.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Capa de Negocio\\NGastosFijos.cs",
+              "RelativeDocumentMoniker": "Capa de Negocio\\NGastosFijos.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Capa de Negocio\\NGastosFijos.cs",
+              "RelativeToolTip": "Capa de Negocio\\NGastosFijos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:57:29.4Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-15T19:54:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\Servicio.cs",
+              "RelativeDocumentMoniker": "Salon\\Servicios\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\Servicio.cs",
+              "RelativeToolTip": "Salon\\Servicios\\Servicio.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:57:53.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "A\u00F1adirProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\A\u00F1adirProducto.cs",
-              "RelativeDocumentMoniker": "Salon\\Productos\\A\u00F1adirProducto.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\A\u00F1adirProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Productos\\A\u00F1adirProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:06:42.091Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Roles.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Rol\\Roles.cs",
-              "RelativeDocumentMoniker": "Salon\\Rol\\Roles.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Rol\\Roles.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Rol\\Roles.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:51:17.119Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
               "RelativeDocumentMoniker": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
               "RelativeToolTip": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:58:23.216Z",
+              "WhenOpened": "2025-03-15T20:27:45.014Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActualizarServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\ActualizarServicio.cs",
+              "RelativeDocumentMoniker": "Salon\\Servicios\\ActualizarServicio.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\ActualizarServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Servicios\\ActualizarServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:09:30.541Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ActualizarProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\ActualizarProducto.cs",
-              "RelativeDocumentMoniker": "Salon\\Productos\\ActualizarProducto.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\ActualizarProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Productos\\ActualizarProducto.cs [Dise\u00F1o]",
+              "Title": "A\u00F1adirServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs",
+              "RelativeDocumentMoniker": "Salon\\Servicios\\A\u00F1adirServicio.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\MANICURA-PAMELA\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:11:54.251Z",
+              "WhenOpened": "2025-03-15T20:09:23.245Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Menu\\Menu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Menu\\Menu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:51:07.26Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VisualizarGastosfijo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs",
-              "RelativeDocumentMoniker": "Salon\\GastosFijos\\VisualizarGastosfijo.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\VisualizarGastosfijo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\GastosFijos\\VisualizarGastosfijo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:18:54.688Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GenerarPeriodosGastosfijos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\GenerarPeriodosGastosfijos.cs",
-              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GenerarPeriodosGastosfijos.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\GenerarPeriodosGastosfijos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\GastosFijos\\GenerarPeriodosGastosfijos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:18:52.491Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GastoFijo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
-              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GastoFijo.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:18:50.326Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "A\u00F1adirEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Empleados\\A\u00F1adirEmpleados.cs",
-              "RelativeDocumentMoniker": "Salon\\Empleados\\A\u00F1adirEmpleados.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\Proyecto-Pamela2\\Proyecto-Pamela2\\Salon\\Salon\\Empleados\\A\u00F1adirEmpleados.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Carlos Alberto Nin\\Desktop\\PROYECTO PAMELA\\Proyecto-Pamela2\\Proyecto-Pamela2\\Salon\\Salon\\Empleados\\A\u00F1adirEmpleados.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:12:01.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Empleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Empleados\\Empleado.cs",
-              "RelativeDocumentMoniker": "Salon\\Empleados\\Empleado.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-Pamela2\\Proyecto-Pamela2\\Salon\\Salon\\Empleados\\Empleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Proyecto-Pamela2\\Proyecto-Pamela2\\Salon\\Salon\\Empleados\\Empleado.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:11:58.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Capa de Datos\\Conexion.cs",
-              "RelativeDocumentMoniker": "Capa de Datos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Capa de Datos\\Conexion.cs",
-              "RelativeToolTip": "Capa de Datos\\Conexion.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:09:16.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DServicio.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Capa de Datos\\DServicio.cs",
-              "RelativeDocumentMoniker": "Capa de Datos\\DServicio.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Capa de Datos\\DServicio.cs",
-              "RelativeToolTip": "Capa de Datos\\DServicio.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAIwL8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:54:21.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ActualizarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\ActualizarProducto.cs",
-              "RelativeDocumentMoniker": "Salon\\Productos\\ActualizarProducto.cs",
-              "ToolTip": "C:\\Users\\gfranco\\Desktop\\Proyecto-pamela500\\TIENDA-PAMELA-500\\Salon\\Salon\\Productos\\ActualizarProducto.cs",
-              "RelativeToolTip": "Salon\\Productos\\ActualizarProducto.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:36:44.788Z",
-              "EditorCaption": ""
             }
           ]
         },

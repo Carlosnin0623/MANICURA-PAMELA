@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Conexion.cs" />
     <Compile Include="DEmpleado.cs" />
+    <Compile Include="DGastosFijos.cs" />
+    <Compile Include="DPeriodosGastosFijos.cs" />
     <Compile Include="DProducto.cs" />
     <Compile Include="DServicio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
