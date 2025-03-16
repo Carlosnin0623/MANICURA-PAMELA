@@ -43,3 +43,12 @@ C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Dato
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Datos\obj\Debug\Capa de .E8F48B6A.Up2Date
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Datos\obj\Debug\Capa de Datos.dll
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Datos\obj\Debug\Capa de Datos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\bin\Debug\Capa de Datos.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\bin\Debug\Capa de Datos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\obj\Debug\Capa de Datos.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\obj\Debug\Capa de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\obj\Debug\Capa de .E8F48B6A.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\obj\Debug\Capa de Datos.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Datos\obj\Debug\Capa de Datos.pdb

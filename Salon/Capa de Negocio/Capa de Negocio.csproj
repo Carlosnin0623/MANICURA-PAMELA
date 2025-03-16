@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NEmpleado.cs" />
+    <Compile Include="NGastosFijos.cs" />
+    <Compile Include="NPeriodosGastosFijos.cs" />
     <Compile Include="NProducto.cs" />
     <Compile Include="NServicio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

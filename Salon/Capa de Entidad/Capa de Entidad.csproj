@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EGastoFijos.cs" />
+    <Compile Include="EPeriodosGastosFijos.cs" />
     <Compile Include="EProducto.cs" />
     <Compile Include="EServicio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

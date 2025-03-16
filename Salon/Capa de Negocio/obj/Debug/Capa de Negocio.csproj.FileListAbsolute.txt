@@ -53,3 +53,14 @@ C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Nego
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Negocio\obj\Debug\Capa de .49AFAB1A.Up2Date
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.dll
 C:\Users\gfranco\Desktop\Proyecto-pamela500\TIENDA-PAMELA-500\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Negocio.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Negocio.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Datos.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Entidad.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Datos.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\bin\Debug\Capa de Entidad.pdb
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\obj\Debug\Capa de .49AFAB1A.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.dll
+C:\Users\Carlos Alberto Nin\Desktop\PROYECTO PAMELA\MANICURA-PAMELA\Salon\Capa de Negocio\obj\Debug\Capa de Negocio.pdb

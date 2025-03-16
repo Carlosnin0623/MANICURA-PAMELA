@@ -104,7 +104,7 @@
             this.drakeUITextBox2.Minimum = -2147483648D;
             this.drakeUITextBox2.Name = "drakeUITextBox2";
             this.drakeUITextBox2.Padding = new System.Windows.Forms.Padding(5);
-            this.drakeUITextBox2.RectColor = System.Drawing.Color.White;
+            this.drakeUITextBox2.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(136)))), ((int)(((byte)(229)))));
             this.drakeUITextBox2.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
             this.drakeUITextBox2.Size = new System.Drawing.Size(225, 27);
             this.drakeUITextBox2.Style = DrakeUI.Framework.UIStyle.Custom;
@@ -281,6 +281,7 @@
             this.Name = "VisualizarGastosfijo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VisualizarGastosfijo";
+            this.Load += new System.EventHandler(this.VisualizarGastosfijo_Load);
             this.drakeUIGradientPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ClosevisualizarGastoFijo)).EndInit();

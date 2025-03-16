@@ -23,9 +23,9 @@ namespace Capa_de_Datos
             private Conexion()
             {
                this.Nombre_base_de_datos = "PampPink";
-               this.Servidor = "1COMPU03";
-               this.Usuario = "Admin";
-               this.Clave = "Infernape100";
+               this.Servidor = "Carlos-Nin\\MSSQLSERVER2022";
+               this.Usuario = "Sa";
+               this.Clave = "Tranquilo12";
                this.Seguridad = true;
 
             }
